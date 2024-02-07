@@ -1,12 +1,17 @@
 import './App.css';
+import Dictionary from "./Dictionary";
 
 function App() {
   return (
     <div className="App">
+      <div className="container">
+
       <h1>
         Dictionary
       </h1>
-      <h2>What word do you want do look up?</h2>
+      <Dictionary/>
+
+      </div>
     </div>
   );
 }
