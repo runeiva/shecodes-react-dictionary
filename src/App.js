@@ -8,7 +8,7 @@ function App() {
       <div className="container">
 
       <h1>
-        Dictionary
+        Web Dictionary
       </h1>
       <Dictionary/>
       <hr/>
